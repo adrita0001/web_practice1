@@ -1,0 +1,31 @@
+li {
+    margin: 8px 30px 8px 15px ;
+}
+li a{
+    font-size: 18px;
+}
+#main_nav{
+    
+    background-color: rgb(9, 9, 156);
+}
+
+.color{
+    color:white;
+}
+
+#icon{
+   font-style: italic;
+   font-weight: bold;
+   font-size: 25px;
+}
+
+.p button{
+    background-color: white;
+}
+.p button:hover{
+    background-color: rgb(197, 194, 32);
+}
+
+#main_nav ul li a:hover{
+    color: rgb(173, 226, 67);
+}
